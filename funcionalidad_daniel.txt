@@ -1,0 +1,2 @@
+Funcionalidad: Añadir control de usuarios
+Descripción: Esta funcionalidad permite registrar nuevos usuarios y validar sus datos.
